@@ -7,20 +7,17 @@
       <project name="ATI-labs/android_device_oneplus_sm8450-common" path="device/oneplus/sm8450-common" remote="github" revision="rising" />
 
       <!-- blobs for sm8450 kernel -->
-      <project name="ATI-labs/android_kernel_oneplus_sm8450" path="kernel/oneplus/sm8450" remote="github" revision="a15" />
-      <project name="ATI-labs/android_kernel_oneplus_sm8450-modules" path="kernel/oneplus/sm8450-modules" remote="github" revision="a15" />
-      <project name="ATI-labs/android_kernel_oneplus_sm8450-devicetrees" path="kernel/oneplus/sm8450-devicetrees" remote="github" revision="a15" />
+      <project name="Arman-ATI/android_device_oneplus_wly-kernel" path="device/oneplus/wly-kernel" remote="github" revision="a15" />
     
       <!-- blobs for sm8450 vendor -->
       <project name="ATI-labs/vendor_oneplus_wly" path="vendor/oneplus/wly" remote="github" revision="a15" />
       <project name="ATI-labs/vendor_oneplus_sm8450-common" path="vendor/oneplus/sm8450-common" remote="github" revision="a15" />
 
       <!-- Oplus hardware -->
-      <project name="ATI-labs/hardware_oplus" path="hardware/oplus" remote="github" revision="a15" />
+      <project name="ATI-labs/hardware_oplus" path="hardware/oplus" remote="github" revision="tmp" />
 
       <!-- other blobs -->
       <project name="Machad3x/proprietary_vendor_oplus_camera" path="vendor/oplus/camera" remote="gitlaab" revision="Matrixx" />
-      <project name="armanati/vendor_GoogleCamera" path="vendor/GoogleCamera" remote="gitlaab" revision="sg" />
       <project name="yaap/device_qcom_common" path="device/qcom/common" remote="github" revision="fifteen" />
       <project name="yaosp/vendor_qcom_common" path="vendor/qcom/common" remote="gitlaab" revision="fifteen" />
   </manifest>

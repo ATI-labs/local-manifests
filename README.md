@@ -2,7 +2,7 @@ Installing Repos
 
         repo init -u https://github.com/ProjectEverest/manifest -b 14 --git-lfs
 
-        git clone https://github.com/ATI-labs/local-manifests.git -b 15 .repo/local_manifests/
+        git clone https://github.com/ATI-labs/local-manifests.git -b tmp .repo/local_manifests/
         
 sync repo
 
